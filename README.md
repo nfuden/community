@@ -12,7 +12,7 @@ If you're interested in participating with the agentgateway community, come talk
 
 * Subscribe to the [agentgateway community calendar](https://calendar.google.com/calendar/u/0?cid=Y18zZTAzNGE0OTFiMGUyYzU2OWI1Y2ZlOWNmOWM4NjYyZTljNTNjYzVlOTdmMjdkY2I5ZTZmNmM5ZDZhYzRkM2ZmQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20)
 * We are available in the [agentgateway discord](https://discord.gg/BdJpzaPjHv)
-* To report security issues, please follow our [vulnerability disclosure best practices](SECURITY.md)
+* To report security issues, please follow our [vulnerability disclosure best practices](https://github.com/agentgateway/agentgateway/blob/main/SECURITY.md)
 * Find more information on the [agentgateway website](https://agentgateway.dev/)
 
 ## Community Meetings
